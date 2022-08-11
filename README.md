@@ -1,2 +1,2 @@
 # chat
-基于Golang的练手项目
+Golang练手小项目
